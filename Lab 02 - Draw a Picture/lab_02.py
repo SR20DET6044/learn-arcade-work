@@ -1,6 +1,6 @@
 import arcade
 
-def
+
 
 arcade.open_window(600, 600, "Car")
 
